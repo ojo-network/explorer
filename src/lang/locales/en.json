@@ -4,39 +4,7 @@
   },
 
   "chains": {
-    "cosmos": "Cosmos Hub",
-    "kava": "Kava",
-    "akash-network": "Akash Decloud",
-    "iris-network": "IRIS Hub",
-    "crypto-com-chain": "Crypto.org",
-    "osmosis": "Osmosis",
-    "okexchain": "OKEX Chain",
-    "band-protocol": "Band Protocol",
-    "terra-luna": "Terra",
-    "persistence": "Persistence",
-    "regen": "Regen Network",
-    "secret": "Secret Network",
-    "desmos": "Desmos",
-    "juno": "Juno",
-    "certik": "Certik",
-    "sentinel": "Sentinel",
-    "sifchain": "Sifchain",
-    "starname": "Starname",
-    "bitsong": "BitSong",
-    "e-money": "E-Money",
-    "omniflix": "OmniFlix",
-    "likecoin": "LikeCoin",
-    "stargaze": "Stargaze",
-    "injective": "Injective Protocal",
-    "vidulum": "Vidulum",
-    "kichain": "KI Chain",
-    "genesisL1": "Genesis L1",
-    "microtick": "Microtick",
-    "odin": "ODIN",
-    "chihuahua": "CHIHUAHUA",
-
-    "gravity": "Gravity(WIP)",
-    "pools": "Pools(WIP)"
+    "ojo": "Ojo Network"
   },
 
   "dashboard": {
@@ -85,5 +53,5 @@
     "proposal_votes_nwv": "voted No With Veto",
     "proposal_votes_abstain": "voted Abstain",
     "proposal_votes_load": "Load More Votes"
-  }  
+  }
 }

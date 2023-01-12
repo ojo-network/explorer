@@ -35,34 +35,7 @@ export const poolIds = {
 }
 
 export const CoinGeckoMap = {
-  ATOM: ['cosmos'],
-  OSMO: ['osmosis'],
-  IRIS: ['iris-network'],
-  AKT: ['akash-network'],
-  LUNA: ['terra-luna'],
-  UST: ['terrausd'],
-  KRT: ['terra-krw'],
-  BAND: ['band-protocol'],
-  CRO: ['crypto-com-chain'],
-  KAVA: ['kava'],
-  OKT: ['okexchain'],
-  CTK: ['certik'],
-  XPRT: ['persistence'],
-  REGEN: ['regen'],
-  SCRT: ['secret'],
-  DVPN: ['sentinel'],
-  ION: ['ion'],
-  ROWAN: ['sifchain'],
-  IOV: ['starname'],
-  BTSG: ['bitsong'],
-  NGM: ['e-money'],
-  EEUR: ['e-money-eur'],
-  LIKE: ['likecoin'],
-  JUNO: ['juno-network'],
-  STGZ: ['stargaze-protocol'],
-  VDL: ['vidulum'],
-  XKI: ['ki'],
-  INJ: ['injective-protocol'],
+  OJO: ['ojo'],
 }
 
 export function getChainConfigForSymbol(symbol) {
