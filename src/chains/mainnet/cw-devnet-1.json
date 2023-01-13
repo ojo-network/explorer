@@ -1,0 +1,22 @@
+{
+    "chain_name": "cw-devnet-1",
+    "api": [
+        "https://api.devnet-cw.ojo-devnet.node.ojo.network:443"
+    ],
+    "rpc": [
+        "https://rpc.devnet-cw.ojo-devnet.node.ojo.network:443"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "ojo",
+    "logo": "/logos/cw.png",
+    "assets": [{
+        "base": "uatom",
+        "symbol": "ATOM",
+        "exponent": "6",
+        "coingecko_id": "atom",
+        "logo": "/logos/cw.png"
+    }]
+  }
