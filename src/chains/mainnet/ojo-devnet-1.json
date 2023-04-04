@@ -1,14 +1,10 @@
 {
     "chain_name": "ojo-devnet-1",
     "api": [
-        "https://api.devnet-n0.ojo-devnet.node.ojo.network:443",
-        "https://api.devnet-n1.ojo-devnet.node.ojo.network:443",
-        "https://api.devnet-n2.ojo-devnet.node.ojo.network:443"
+        "https://api-1.ojo.nodes.guru:443"
     ],
     "rpc": [
-        "https://rpc.devnet-n0.ojo-devnet.node.ojo.network:443",
-        "https://rpc.devnet-n1.ojo-devnet.node.ojo.network:443",
-        "https://rpc.devnet-n2.ojo-devnet.node.ojo.network:443"
+        "https://rpc-1.ojo.nodes.guru:443"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
