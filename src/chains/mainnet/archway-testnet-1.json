@@ -1,0 +1,22 @@
+{
+    "chain_name": "constantine-2",
+    "api": [
+        "https://api.constantine-2.archway.tech:443"
+    ],
+    "rpc": [
+        "https://rpc.constantine-2.archway.tech:443"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "arch",
+    "logo": "/logos/archway.png",
+    "assets": [{
+        "base": "uarch",
+        "symbol": "ARCH",
+        "exponent": "6",
+        "coingecko_id": "arch",
+        "logo": "/logos/archway.png"
+    }]
+  }
