@@ -1,10 +1,10 @@
 {
-    "chain_name": "ojo-devnet-1",
+    "chain_name": "agamotto",
     "api": [
-        "https://api-1.ojo.nodes.guru:443"
+        "http://35.232.204.42:26657"
     ],
     "rpc": [
-        "https://rpc-1.ojo.nodes.guru:443"
+        "http://35.232.204.42:1317"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
