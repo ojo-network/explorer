@@ -1,10 +1,10 @@
 {
     "chain_name": "agamotto",
     "api": [
-        "http://34.31.78.63:1317"
+        "https://api.agamotto-val-stage-0.ojo.network"
     ],
     "rpc": [
-        "http://34.31.78.63:26657"
+        "https://rpc.agamotto-val-stage-0.ojo.network"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
