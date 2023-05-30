@@ -1,0 +1,29 @@
+{
+    "chain_name": "devnet-1",
+    "coingecko": "",
+    "api": [
+        "https://api.devnet-n0.ojo-devnet.node.ojo.network",
+        "https://api.devnet-n1.ojo-devnet.node.ojo.network",
+        "https://api.devnet-n2.ojo-devnet.node.ojo.network"
+
+    ],
+    "rpc": [
+        "https://rpc.devnet-n0.ojo-devnet.node.ojo.network",
+        "https://rpc.devnet-n1.ojo-devnet.node.ojo.network",
+        "https://rpc.devnet-n2.ojo-devnet.node.ojo.network"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.46.8",
+    "addr_prefix": "ojo",
+    "logo": "/logos/ojo.png",
+    "assets": [
+        {
+            "base": "uebl",
+            "symbol": "EBL",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/ojo.png"
+        }
+    ]
+}

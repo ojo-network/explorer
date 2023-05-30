@@ -178,21 +178,6 @@ const showDiscord = window.location.host.search("ping.pub") > -1
         </div>
       </div>
       <div>
-        <div class="px-4 text-sm pt-4 text-gray-400 pb-2 uppercase">
-          Sponsors
-        </div>
-        <a href="https://osmosis.zone" class="collapse-title px-4 flex items-center py-2 hover:bg-gray-100 dark:hover:bg-[#373f59]">
-          <img src="https://ping.pub/logos/osmosis.jpg" class="w-6 h-6 rounded-full mr-3"/>
-          <div class="text-base capitalize flex-1 text-gray-700 dark:text-gray-200">
-            Osmosis
-          </div>
-        </a>
-        <a href="https://becole.com" class="collapse-title px-4 flex items-center py-2 hover:bg-gray-100 dark:hover:bg-[#373f59]">
-          <img src="https://becole.com/static/logo/logo_becole.png" class="w-6 h-6 rounded-full mr-3"/>
-          <div class="text-base capitalize flex-1 text-gray-700 dark:text-gray-200">
-            Becole
-          </div>
-        </a>
 
         <div class="px-4 text-sm pt-4 text-gray-400 pb-2 uppercase">
           Links
