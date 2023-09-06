@@ -1,0 +1,22 @@
+{
+    "chain_name": "ditto",
+    "api": [
+        "https://api.ditto-val-stage-0.ojo.network"
+    ],
+    "rpc": [
+        "https://rpc.ditto-val-stage-0.ojo.network"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.0",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "ojo",
+    "logo": "/logos/ojo.png",
+    "assets": [{
+        "base": "uojo",
+        "symbol": "OJO",
+        "exponent": "6",
+        "coingecko_id": "ojo",
+        "logo": "/logos/ojo.png"
+    }]
+  }
