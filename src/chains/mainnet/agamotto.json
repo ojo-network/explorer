@@ -1,10 +1,10 @@
 {
     "chain_name": "agamotto",
     "api": [
-        "https://api.agamotto-val-stage-0.ojo.network"
+        "https://api.agamotto-val-prod-0.ojo.network"
     ],
     "rpc": [
-        "https://rpc.agamotto-val-stage-0.ojo.network"
+        "https://rpc.agamotto-val-prod-0.ojo.network"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
