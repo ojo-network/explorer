@@ -1,10 +1,12 @@
 {
     "chain_name": "ditto",
     "api": [
-        "https://api.ditto-val-stage-0.ojo.network"
+        "https://api.ditto-val-stage-0.ojo.network",
+        "https://api.ditto-val-stage-0.ojolabs.xyz"
     ],
     "rpc": [
-        "https://rpc.ditto-val-stage-0.ojo.network"
+        "https://rpc.ditto-val-stage-0.ojo.network",
+        "https://rpc.ditto-val-stage-0.ojolabs.xyz"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.47.0",
